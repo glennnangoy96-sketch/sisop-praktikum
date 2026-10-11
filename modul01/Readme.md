@@ -6,8 +6,8 @@
 
 | Item | Keterangan |
 | --- | --- |
-| **Nama** | Hikam Putera Perdana |
-| **NIM** | 108072500116 |
+| **Nama** | Glen Emanual Nangoy |
+| **NIM** | 108072500110 |
 | **Kelas** | IF-05-04 |
 | **Asisten Praktikum** | Nuevalen Refitra Alswando |
 | **Tanggal Praktikum** | 02-10-2026 |
